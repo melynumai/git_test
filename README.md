@@ -1,0 +1,1 @@
+This is Martyna's first git project!
